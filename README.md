@@ -1,3 +1,3 @@
 # yopovine3
 
-Van Netwerk Engineer naar Security Engineer. Momenteel bezig met eJPT & Google CyberSecurity.
+From Netwerk Engineer to Security Engineer. At this moment studying for INE eJPT & Google CyberSecurity.
